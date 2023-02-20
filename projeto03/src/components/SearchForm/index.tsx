@@ -1,5 +1,5 @@
 import { MagnifyingGlass } from "phosphor-react"
-import { SearchFormContainer } from "./style"
+import { SearchFormContainer } from "./styles"
 
 
 
