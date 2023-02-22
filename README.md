@@ -1,3 +1,1 @@
 # rs-ignite-reactjs
-
-[text]
