@@ -31,6 +31,14 @@
       "type": "income",
       "createdAt": "2023-02-24T18:52:51.694Z",
       "id": 4
+    },
+    {
+      "description": "Esticonórios",
+      "category": "Jepetí",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2023-02-24T19:53:29.213Z",
+      "id": 5
     }
   ]
 }
