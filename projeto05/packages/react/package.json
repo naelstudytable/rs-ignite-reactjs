@@ -11,10 +11,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "tsup": "^6.7.0",
     "typescript": "^5.0.4",
-    "@ignite-ui/tokens": "*"
+    "@ignite-ui/tokens": "*",
+    "@ignite-ui/ts-config": "*"
   }
 }
